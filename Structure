@@ -1,0 +1,17 @@
+QuickCommerce360/
+│
+├── notebooks/
+│   └── QuickCommerce360.ipynb
+│
+├── data/
+│   ├── fact_orders.csv
+│   ├── fact_delivery.csv
+│   ├── fact_feedback.csv
+│   ├── fact_marketing.csv
+│
+├── powerbi/
+│   └── QuickCommerce360.pbix
+│
+├── screenshots/
+│
+└── README.md
