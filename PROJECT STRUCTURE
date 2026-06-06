@@ -1,0 +1,23 @@
+QuickCommerce360/
+│
+├── data/
+│   ├── fact_orders.csv
+│   ├── fact_delivery.csv
+│   ├── fact_feedback.csv
+│   ├── fact_marketing.csv
+│
+├── notebooks/
+│   └── QuickCommerce360.ipynb
+│
+├── sql/
+│   └── warehouse_queries.sql
+│
+├── powerbi/
+│   └── QuickCommerce360.pbix
+│
+├── screenshots/
+│   ├── executive_dashboard.png
+│   ├── customer_dashboard.png
+│   ├── product_dashboard.png
+│
+└── README.md
