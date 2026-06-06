@@ -1,5 +1,3 @@
-# QuickCommerce360-Enterprise-Data-Intelligence-Platform
-
 # QuickCommerce360: Enterprise Quick Commerce Data Intelligence Platform
 
 ## Business Problem
